@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Activities" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/AlertDialog" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Boton" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/CicloVidaActividades" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/FrameLayout" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/LinearLayout" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Listado" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Menus" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/SolitarioPractica" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Toast" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/WriteFile" vcs="Git" />
+  </component>
+</project>
